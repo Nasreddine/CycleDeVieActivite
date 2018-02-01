@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     View.OnClickListener btnQuitterOnClickListener = new View.OnClickListener() {
         @Override
         public void onClick(View v) {
-            // fermer l'applications
+            // fermer l'application
             finish();
         }
     };
